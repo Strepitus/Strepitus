@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Strepitus
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning solidity, js, python
-- 💞️ I’m looking to collaborate on ML/DS/Blockchain/DeFI/NFT/P2E projects
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on ML/DS/DeFI/P2E projects
 - 📫 How to reach me - telegram @Strepitus
 
 <!---
